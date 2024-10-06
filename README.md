@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Love_eskom</h1>
 <h3 align="center">A passionate frontend developer and from South Africa</h3>
 
-- 🌱 I’m currently learning **Cybersecurity, network administration, cloud**
+- 🌱 I’m currently learning **Cybersecurity, network administration and aws**
 
 - 👨‍💻 All of my projects are available at [https://github.com/love-eskom/love-eskom](https://github.com/love-eskom/love-eskom)
 
-- 💬 Ask me about **python, javascript, linux, nmap**
+- 💬Ping me about **Call of duty, python, javascript, linux.**
 
-- ⚡ Fun fact **Geek**
+- ⚡ Fun fact **Proud Zulu developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
