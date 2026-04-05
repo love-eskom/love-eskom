@@ -12,6 +12,12 @@
 - 👨‍💻 View my projects:  
 👉 https://github.com/love-eskom?tab=repositories
 
+<h3>📚 Education & Certifications</h3>
+
+- 🎓 Diploma in Computer Science (Extended) – Tshwane University of Technology  
+- 🌐 Networking (CCNA-level) – Cisco NetAcad & Packet Tracer  
+- 💻 Computer Fundamentals (A+ equivalent)  
+- 🏆 FNB App Academy – Full Stack Development Certificate  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
