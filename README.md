@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khulekani</h1>
-<h3 align="center">Aspiring Cybersecurity Engineer | Python Developer | TUT Student</h3>
+<h3 align="center">Computer Science Student @ TUT <br>
+Building Python-based Cybersecurity Tools for Blue Team Operations and Detection Engineering</h3>
 
 🔐 Focused on Cybersecurity (Blue Teaming & Detection Engineering)  
 🚀 Built a Python SOC Detection System for log parsing, brute force detection, and alert reporting (JSON/CSV)  
