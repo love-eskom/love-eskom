@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khulekani</h1>
 <h3 align="center">Computer Science Student @ TUT <br>
-Building Python-based Cybersecurity Tools for Blue Team Operations and Detection Engineering</h3>
+Building secure networks, cybersecurity tools, and Python automation</h3>
 
-🔐 Focused on Cybersecurity (Blue Teaming & Detection Engineering)  
+🔐 Interested in Networking, Blue Teaming, Detection Engineering, and Infrastructure Security.  
 🚀 Built a Python SOC Detection System for log parsing, brute force detection, and alert reporting (JSON/CSV)  
 💻 Skilled in Python, Java, Linux, and foundational penetration testing concepts  
 📊 Interested in log analysis, threat detection, and system security  
