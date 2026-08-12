@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khulekani</h1>
+<h1 align="center">Hi 👋, I'm Gcinikhaya</h1>
 <h3 align="center">Computer Science Student @ TUT <br>
 Building secure networks, cybersecurity tools, and Python automation</h3>
 
