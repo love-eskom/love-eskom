@@ -17,8 +17,8 @@ Building secure networks, cybersecurity tools, and Python automation</h3>
 * **LAB-003** [SOC Detection System](https://github.com/love-eskom/python-soc-detection-system) - Log parsing, brute force detection, and JSON/CSV reporting.
 
 ### 📚 Learning Projects
-* [Snake Game](https://github.com/love-eskom) - Basic Python logic practice.
-* [Coffee Machine](https://github.com/love-eskom) - Object-oriented programming fundamentals.
+* [Snake Game](https://github.com/love-eskom/-snake-game-oop) - Basic Python logic practice.
+* [Coffee Machine](https://github.com/love-eskom/coffee-machine-oop) - Object-oriented programming fundamentals.
 
 ---
 
