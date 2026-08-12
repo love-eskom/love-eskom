@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gcinikhaya Thabethe</h1>
 <h3 align="center">Computer Science Student @ TUT <br>
-Building secure networks, cybersecurity tools, and Python automation</h3>
+Building secure networks, cybersecurity tools, and detection systems.</h3>
 
 🔐 Interested in Networking, Blue Teaming, Detection Engineering, and Infrastructure Security.  
 💻 Skilled in Python, Java, Linux, and foundational penetration testing concepts  
