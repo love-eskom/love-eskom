@@ -24,7 +24,7 @@ Building secure networks, cybersecurity tools, and detection systems.</h3>
 
 <h3>📚 Education & Certifications</h3>
 
-- 🎓 Diploma in Computer Science (Extended) – Tshwane University of Technology  
+- 🎓 Diploma in Computer Science (Extended) – Tshwane University of Technology  (In progress)
 - 🌐 Networking (CCNA-level) – Cisco NetAcad & Packet Tracer  
 - 💻 Computer Fundamentals (A+ equivalent)  
 - 🏆 FNB App Academy – Full Stack Development Certificate  
