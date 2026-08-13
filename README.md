@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gcinikhaya Thabethe</h1>
 <h3 align="center">Computer Science Student @ TUT <br>
 Building secure networks, cybersecurity tools, and detection systems.</h3>
-
+<h3 align="center"> BUILD • DETECT • DEFEND <h3></h3>
 🔐 Interested in Networking, Blue Teaming, Detection Engineering, and Infrastructure Security.  
 💻 Skilled in Python, Java, Linux, and foundational penetration testing concepts  
 📊 Interested in log analysis, threat detection, and system security  
@@ -11,12 +11,12 @@ Building secure networks, cybersecurity tools, and detection systems.</h3>
 
 ## 🛠️ Project Portfolio
 
-### ⭐ Featured / Labs
+### 🧪 Security & Engineering Labs
 * **LAB-001** [Enterprise Network](https://github.com/love-eskom/Enterprise-Office-Network) - Cisco Packet Tracer network architecture design.
 * **LAB-002** [Network Scanner](https://github.com/love-eskom/python-network-scanner) - Python-based network reconnaissance tool.
 * **LAB-003** [SOC Detection System](https://github.com/love-eskom/python-soc-detection-system) - Log parsing, brute force detection, and JSON/CSV reporting.
 
-### 📚 Learning Projects
+### 📚 Earlier Projects
 * [Snake Game](https://github.com/love-eskom/-snake-game-oop) - Basic Python logic practice.
 * [Coffee Machine](https://github.com/love-eskom/coffee-machine-oop) - Object-oriented programming fundamentals.
 
