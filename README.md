@@ -15,6 +15,7 @@ Building secure networks, cybersecurity tools, and detection systems.</h3>
 * **LAB-001** [Enterprise Network](https://github.com/love-eskom/Enterprise-Office-Network) - Cisco Packet Tracer network architecture design.
 * **LAB-002** [Network Scanner](https://github.com/love-eskom/python-network-scanner) - Python-based network reconnaissance tool.
 * **LAB-003** [SOC Detection System](https://github.com/love-eskom/python-soc-detection-system) - Log parsing, brute force detection, and JSON/CSV reporting.
+* **LAB-004** [MiniSOC](https://github.com/love-eskom/MiniSOC) - Currently in progress.
 
 ### 📚 Earlier Projects
 * [Snake Game](https://github.com/love-eskom/-snake-game-oop) - Basic Python logic practice.
