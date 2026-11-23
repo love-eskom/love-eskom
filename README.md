@@ -1,44 +1,75 @@
-<h1 align="center">Hi 👋, I'm Gcinikhaya Thabethe</h1>
-<h3 align="center">Computer Science Student @ TUT <br>
-Building secure networks, cybersecurity tools, and detection systems.</h3>
-<h3 align="center"> BUILD • DETECT • DEFEND <h3></h3>
-🔐 Interested in Networking, Blue Teaming, Detection Engineering, and Infrastructure Security.  
-💻 Skilled in Python, Java, Linux, and foundational penetration testing concepts  
-📊 Interested in log analysis, threat detection, and system security  
-📫 Open to internships and remote opportunities  
 
-- 🌱 Currently learning **Cybersecurity, Networking, and AWS**
+<div align="center">
 
-## 🛠️ Project Portfolio
+# Gcinikhaya Thabethe
 
-### 🧪 Security & Engineering Labs
-* **LAB-001** [Enterprise Network](https://github.com/love-eskom/Enterprise-Office-Network) - Cisco Packet Tracer network architecture design.
-* **LAB-002** [Network Scanner](https://github.com/love-eskom/python-network-scanner) - Python-based network reconnaissance tool.
-* **LAB-003** [SOC Detection System](https://github.com/love-eskom/python-soc-detection-system) - Log parsing, brute force detection, and JSON/CSV reporting.
-* **LAB-004** [MiniSOC](https://github.com/love-eskom/MiniSOC) - Currently in progress.
+**Computer Science Student | Cybersecurity & Network Security**
 
-### 📚 Earlier Projects
-* [Snake Game](https://github.com/love-eskom/-snake-game-oop) - Basic Python logic practice.
-* [Coffee Machine](https://github.com/love-eskom/coffee-machine-oop) - Object-oriented programming fundamentals.
+Building practical security tooling, detection systems, and secure network infrastructure.
+
+`BUILD · DETECT · DEFEND`
+
+[LinkedIn](https://www.linkedin.com/in/gcinikhaya-thabethe-33167b274) · Gauteng, South Africa
+
+</div>
 
 ---
 
-<h3>📚 Education & Certifications</h3>
+### About
 
-- 🎓 Diploma in Computer Science (Extended) – Tshwane University of Technology  (In progress)
-- 🌐 Networking (CCNA-level) – Cisco NetAcad & Packet Tracer  
-- 💻 Computer Fundamentals (A+ equivalent)  
-- 🏆 FNB App Academy – Full Stack Development Certificate  
+Computer Science student at Tshwane University of Technology with a focus on **Blue Team Security, Detection Engineering, and Network Security**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a> 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a> 
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a> 
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a> 
-</p>
+Interested in building practical defensive security tools, understanding network infrastructure, and developing reliable security automation.
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gcinikhaya-thabethe-33167b274/)
+---
+
+### Selected Projects
+
+**[MiniSOC](https://github.com/love-eskom/MiniSOC)** (In progress) · `Python` `Detection Engineering` `pytest`
+
+Modular security event processing and detection engine featuring Linux authentication log parsing, event normalisation, and stateful detection logic.
+
+**[SOC Detection System](https://github.com/love-eskom/python-soc-detection-system)** · `Python` `Log Analysis`
+
+Security monitoring pipeline implementing brute-force detection, event analysis, and automated JSON/CSV alert reporting.
+
+**[Enterprise Office Network](https://github.com/love-eskom/Enterprise-Office-Network)** · `Networking` `Cisco`
+
+Segmented enterprise network architecture featuring VLANs, inter-VLAN routing, ACLs, and core network services.
+
+**[Python Network Scanner](https://github.com/love-eskom/python-network-scanner)** · `Python` `TCP/IP`
+
+Multithreaded network reconnaissance utility with TCP port scanning, service banner grabbing, and structured JSON output.
+
+---
+
+### Technical Expertise
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, Java, JavaScript |
+| Security | Log Analysis, Detection Engineering, Burp Suite |
+| Networking | TCP/IP, VLANs, ACLs, DHCP, DNS, SSH |
+| Development | Git, Linux, pytest |
+
+---
+
+### Education & Certifications
+
+**Tshwane University of Technology**
+
+Diploma in Computer Science (Extended) · In Progress
+
+**Certifications**
+
+- Cisco Networking Academy — Introduction to Networks
+- Cisco — Introduction to Cybersecurity
+- FNB App Academy — Full Stack Development
+
+---
+
+<div align="center">
+
+*BUILD · DETECT · DEFEND*
+
+</div>
