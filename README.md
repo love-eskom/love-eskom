@@ -29,7 +29,7 @@ Interested in building practical defensive security tools, understanding network
 
 Modular security event processing and detection engine featuring Linux authentication log parsing, event normalisation, and stateful detection logic.
 
-**[soc-log-simulator-v1](https://github.com/love-eskom/python-soc-detection-system)** · `Python` `Log Analysis`
+**[Security Log Analysis Pipeline](https://github.com/love-eskom/python-soc-detection-system)** · `Python` `Log Analysis`
 
 Security monitoring pipeline implementing brute-force detection, event analysis, and automated JSON/CSV alert reporting.
 
